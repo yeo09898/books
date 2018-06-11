@@ -1,0 +1,25 @@
+{
+  "name": "booksite",
+  "version": "1.0.0",
+  "description": "bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.17.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeo09898/booksite.git"
+  },
+  "author": "Bear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeo09898/booksite/issues"
+  },
+  "homepage": "https://github.com/yeo09898/booksite#readme"
+}
